@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.animation_test" type="0x8">
+    <label>animation_test animation complete</label>
+    <description>The animation named animation_test has completed</description>
+  </event>
+  <event name="gre.animate.stop.animation_test" type="0x8">
+    <label>animation_test animation stopped</label>
+    <description>The animation named animation_test has been stopped</description>
+  </event>
+</eventdefinitions>

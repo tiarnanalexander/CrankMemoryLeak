@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.CircleAnimation" type="0x8">
+    <label>CircleAnimation animation complete</label>
+    <description>The animation named CircleAnimation has completed</description>
+  </event>
+  <event name="gre.animate.stop.CircleAnimation" type="0x8">
+    <label>CircleAnimation animation stopped</label>
+    <description>The animation named CircleAnimation has been stopped</description>
+  </event>
+</eventdefinitions>
